@@ -1,0 +1,19 @@
+{
+    "name": "corbin/spark-vuetify",
+    "description": "This is theme for Laravel Spark that uses the Vuetify framework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kyle Hurst",
+            "email": "kyle.c.hurst@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Corbin\\SparkVuetify\\": "src/"
+        }
+    }
+}
